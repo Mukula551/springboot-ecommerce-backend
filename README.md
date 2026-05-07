@@ -35,9 +35,3 @@ A production-style backend e-commerce application developed using Java, Spring B
 - Spring Security
 - Pagination & Sorting
 - Exception Handling
-- DTO Layer
-- Swagger Documentation
-
-## Author
-
-Mukula Bhagwatkar
